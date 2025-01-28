@@ -186,3 +186,23 @@ You can remove testing artifacts, `exercise` directories, with the git clean com
 ```sh
 git clean -ffdX
 ```
+
+## TODO List 🚀
+- [x] 🔧 Basic Commits
+- [x] 📂 Basic Staging
+- [ ] 🔍 Investigation
+- [ ] 🌱 Basic Branching
+- [ ] ⏩ Fast Forward Merge
+- [ ] 🔀 3 way Merge
+- [ ] 🧩 Merge Mergesort
+- [ ] 🚧 Rebase Branch
+- [ ] 🔄 Basic Revert
+- [ ] 🧹 Reset
+- [ ] 🗑️ Basic Cleaning
+- [ ] 📝 Amend
+- [ ] 🔢 Reorder the History
+- [ ] 🎛️ Advanced Rebase Interactive
+- [ ] ⚡ Rebase using autosquash
+- [ ] 🛠️ Basic Stashing
+
+
