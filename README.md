@@ -39,7 +39,7 @@ This is the order that Jan Krag at Praqma teaches Git and might change over time
 everything you need to be able to use Git effectively in your day to day life.
 
 - [x] [Basic Commits](./basic-commits/README.md)
-- [] [Basic Staging](./basic-staging/README.md)
+- [ ] [Basic Staging](./basic-staging/README.md)
 - [ ] [Investigation](./investigation/README.md)
 - [ ] [Basic Branching](./basic-branching/README.md)
 - [ ] [Fast Forward Merge](./ff-merge/README.md)
