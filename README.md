@@ -39,7 +39,7 @@ https://github.com/130bb56/git-katas/blob/master/Overview.md
 
 - [X] [basic-commits](basic-commits/README.md) - Very basic creation of commits.
 - [X] [basic-staging](basic-staging/README.md) - Interacting with the stage (index).
-- [ ] [basic-branching](basic-branching/README.md) - The first stride into branching.
+- [x] [basic-branching](basic-branching/README.md) - The first stride into branching.
 - [ ] [ff-merge](ff-merge/README.md) - A tour around the most trivial of merges.
 - [ ] [3-way-merge](3-way-merge/README.md) - A basic merge, involving multiple diverged branches.
 - [ ] [merge-conflict](merge-conflict/README.md) - A basic merge between diverging branches with incompatible (but simple) changesets.
