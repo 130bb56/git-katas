@@ -32,28 +32,30 @@ To get an overview of the exercises in here look in [Overview.md](Overview.md).
 
 Feel free to use these exercises, that's why they're public!
 
-## Suggested Learning Path
+## Learning Path
+https://github.com/130bb56/git-katas/blob/master/Overview.md
 
-If you are coming to this repository for some basic Git knowledge, we recommend going through the exercises in the following order.
-This is the order that Jan Krag at Praqma teaches Git and might change over time. There are more exercises than this, but these should take you through
-everything you need to be able to use Git effectively in your day to day life.
+## Basic Git Katas in Suggested Order - To-Do List
 
-- [x] [Basic Commits](./basic-commits/README.md)
-- [x] [Basic Staging](./basic-staging/README.md)
-- [ ] [Investigation](./investigation/README.md)
-- [ ] [Basic Branching](./basic-branching/README.md)
-- [ ] [Fast Forward Merge](./ff-merge/README.md)
-- [ ] [3 way Merge](./3-way-merge/README.md)
-- [ ] [Merge Mergesort](./merge-mergesort/README.md)
-- [ ] [Rebase Branch](./rebase-branch/README.md)
-- [ ] [Basic Revert](./basic-revert/README.md)
-- [ ] [Reset](./reset/README.md)
-- [ ] [Basic Cleaning](./basic-cleaning/README.md)
-- [ ] [Amend](./amend/README.md)
-- [ ] [Reorder the History](./reorder-the-history/README.md)
-- [ ] [Advanced Rebase Interactive](./advanced-rebase-interactive/README.md)
-- [ ] [Rebase using autosquash](./rebase-interactive-autosquash/README.md)
-- [ ] [Basic Stashing](./basic-stashing/README.md)
+- [ ] [basic-commits](basic-commits/README.md) - Very basic creation of commits.
+- [ ] [basic-staging](basic-staging/README.md) - Interacting with the stage (index).
+- [ ] [basic-branching](basic-branching/README.md) - The first stride into branching.
+- [ ] [ff-merge](ff-merge/README.md) - A tour around the most trivial of merges.
+- [ ] [3-way-merge](3-way-merge/README.md) - A basic merge, involving multiple diverged branches.
+- [ ] [merge-conflict](merge-conflict/README.md) - A basic merge between diverging branches with incompatible (but simple) changesets.
+- [ ] [merge-mergesort](merge-mergesort/README.md) - A merge conflict with actual code.
+- [ ] [rebase-branch](rebase-branch/README.md) - Using rebase as an alternative to merging.
+- [ ] [basic-revert](basic-revert/README.md) - Use revert to revert a change.
+- [ ] [reset](reset/README.md) - Reset is a powerful and slightly dangerous command if you do not know what you are doing. Go through the three modes of resetting here.
+- [ ] [basic-cleaning](basic-cleaning/README.md) - Cleaning the workspace.
+- [ ] [amend](amend/README.md) - Amending previous commits.
+- [ ] [reorder-the-history](reorder-the-history/README.md) - We might have created our commits in a suboptimal order, practice to fix that scenario here.
+- [ ] [squashing](squashing/README.md) - A lot of small commits is good when you are working locally, but for sharing your code, it might be more beneficial to deliver your code changes in large sets. Go here to experiment with that. Write a good commit.
+- [ ] [advanced-rebase-interactive](advanced-rebase-interactive/README.md) - Practice using the interactive rebase commands.
+- [ ] [basic-stashing](basic-stashing/README.md) - The first stride into stashing.
+- [ ] [ignore](ignore/README.md) - The basics of using the `.gitignore` file. And using `git rm`.
+- [ ] [submodules](submodules/README.md) - Submodules are loathed by many. Run through this exercise to see what the ruckus is all about.
+- [ ] [git-tag](git-tag/README.md) - Tags are convenient for keeping track of commits that bump a version number. In this exercise, you will list, add and delete tags.
 
 See [Overview.md](Overview.md) for a more complete list and suggested order.
 
