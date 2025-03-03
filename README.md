@@ -34,9 +34,13 @@ Feel free to use these exercises, that's why they're public!
 
 ## Learning Path
 ignore (8번) - .gitignore 파일 설정은 빌드 파일이나 임시 파일들을 관리에서 제외할 수 있어 가장 먼저 익히는 것이 좋습니다. CUDA나 PyTorch 프로젝트에서는 컴파일된 바이너리, 캐시 파일 등을 제외하는 데 필수적입니다.
+
 basic-cleaning (5번) - 불필요한 파일을 정리하는 방법으로, 작업 공간을 깨끗하게 유지하는 데 도움이 됩니다.
+
 basic-stashing (7번) - 작업 중인 변경사항을 임시 저장할 수 있어, 최적화 실험 중 다른 접근법을 빠르게 시도해볼 때 매우 유용합니다.
+
 ff-merge (4번) - 브랜치를 사용하기 시작하면 필요해집니다만, 초기에는 덜 중요할 수 있습니다. Fast-forward merge는 일직선 상에 있는 브랜치를 별도의 병합 커밋 없이 합체시키는 방식입니다.
+
 amend (6번) - 마지막 커밋을 수정하는 기능으로, 유용하지만 필수는 아닙니다.
 
 권장사항
